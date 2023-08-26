@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/CaneNei.github.io/static/css/main.2d33314a.css",
+    "main.js": "/CaneNei.github.io/static/js/main.f9a678f0.js",
+    "static/js/787.9845b578.chunk.js": "/CaneNei.github.io/static/js/787.9845b578.chunk.js",
+    "static/media/DronesGif.gif": "/CaneNei.github.io/static/media/DronesGif.71a22e512e4dcf9e617a.gif",
+    "static/media/DishStackerGif.gif": "/CaneNei.github.io/static/media/DishStackerGif.5467c2d8adf68c85cd7d.gif",
+    "static/media/AboutGif.gif": "/CaneNei.github.io/static/media/AboutGif.a3ba4be7b99222019dd4.gif",
+    "static/media/ThinkingwithFutures.gif": "/CaneNei.github.io/static/media/ThinkingwithFutures.507fd4da89625d584515.gif",
+    "static/media/BitsVersusSigma.gif": "/CaneNei.github.io/static/media/BitsVersusSigma.b0470db42dc767a5280e.gif",
+    "static/media/annotated-CAB31020320Neilson.pdf": "/CaneNei.github.io/static/media/annotated-CAB31020320Neilson.27ceb3a8fc2cd61e53a8.pdf",
+    "static/media/annotated-CAB31020120Neilson.pdf": "/CaneNei.github.io/static/media/annotated-CAB31020120Neilson.2bcafa552482a565fabe.pdf",
+    "static/media/CABass2.PNG": "/CaneNei.github.io/static/media/CABass2.057d363b9ce032b1ec0d.PNG",
+    "static/media/vrgame.png": "/CaneNei.github.io/static/media/vrgame.e1e4db39ad34c7250b45.png",
+    "static/media/drones.png": "/CaneNei.github.io/static/media/drones.6b9c87c87bf7b89f2c9d.png",
+    "static/media/CABass1.PNG": "/CaneNei.github.io/static/media/CABass1.5e6abb8773fdfb13c625.PNG",
+    "static/media/futures.png": "/CaneNei.github.io/static/media/futures.e9029ac22400dd36b5fc.png",
+    "static/media/resume-icon.png": "/CaneNei.github.io/static/media/resume-icon.1f198764c631780a50ac.png",
+    "static/media/bitsvssigma.png": "/CaneNei.github.io/static/media/bitsvssigma.cb52e3b511c4d3561082.png",
+    "static/media/Cane Resume.pdf": "/CaneNei.github.io/static/media/Cane Resume.c2c7e96aa348ae0a9282.pdf",
+    "index.html": "/CaneNei.github.io/index.html",
+    "main.2d33314a.css.map": "/CaneNei.github.io/static/css/main.2d33314a.css.map",
+    "main.f9a678f0.js.map": "/CaneNei.github.io/static/js/main.f9a678f0.js.map",
+    "787.9845b578.chunk.js.map": "/CaneNei.github.io/static/js/787.9845b578.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d33314a.css",
+    "static/js/main.f9a678f0.js"
+  ]
+}
